@@ -24,4 +24,3 @@ def conversoes_disponiveis():
 
 #{"USD": ["BRL", "AED", "CAD", "EUR", "GBP"], "BRL": ["USD", "EUR"]}
 
-#link = "https://economia.awesomeapi.com.br/last/USD-BRL"
